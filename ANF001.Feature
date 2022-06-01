@@ -1,1 +1,4 @@
-
+Escenario 
+Given
+When
+Then
